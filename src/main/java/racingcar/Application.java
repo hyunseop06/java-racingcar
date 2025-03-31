@@ -17,5 +17,5 @@ public class Application {
         System.out.println("이동 횟수를 적으시오 : ");
         try1 try1 = (try1) in.next();
     }
-}
+}r
 
